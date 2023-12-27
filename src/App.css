@@ -1,0 +1,46 @@
+.navbar-brand {
+  color: #0b8;
+}
+.navbar-nav a:hover {
+  color: #0b8 !important;
+  border-bottom: 1px solid #0b8;
+  padding-bottom: 0;
+}
+.heading2{
+  color: #9aa5aa;
+  font-size: 26px;
+}
+.heading1{
+  color: #000;
+  font-size: 35px;
+  font-weight: 700;
+}
+.main-pdf-body{
+  background-color: #FBFBFB;
+}
+.pdf-btn{
+  border: none;
+  padding: 0.3rem 0.6rem;
+  background-color: #0b8;
+  color: #FFF;
+  font-weight: 650;
+}
+.option-btn{
+  border: none;
+  padding: 0.3rem 0.6rem;
+  color: #0b8;
+}
+.rotate-on-hover {
+  transition: transform 0.5s; /* Add a smooth transition effect */
+}
+
+.rotate-on-hover:hover {
+  transform: rotate(360deg); /* Apply a 360-degree rotation on hover */
+}
+
+.social_icon{
+  padding:4px;
+  border-radius:50%
+  
+}
+
